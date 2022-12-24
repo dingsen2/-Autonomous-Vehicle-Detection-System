@@ -11,3 +11,7 @@ As part of the CS588 course, our team of four (Jiaxi Li, Dingsen Shi, Yijun Lin,
 
 ## [Demo](https://youtu.be/cTlMY3pIvXk)
 [![Demo](assets/video-start.jpg)](https://youtu.be/cTlMY3pIvXk)
+
+
+## [Car Says Bye](https://youtu.be/cTlMY3pIvXk)
+[![Bye CS588](assets/studpeople.jpg)](https://youtu.be/cTlMY3pIvXk)
