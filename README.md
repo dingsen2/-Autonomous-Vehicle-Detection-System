@@ -1,9 +1,9 @@
 # Autonomous-Vehicle-Detection-System
 
-# Code repo for the vehicle detection system. 
+## Code repo for the vehicle detection system. 
 As part of the CS588 course, our team of four (Jiaxi Li, Dingsen Shi, Yijun Lin, and Ang Li) developed an autonomous vehicle system capable of detecting traffic signs and pedestrians in real-time. The system is able to respond appropriately by making quarter turns at turn signs, stopping and waiting at stop signs, and stopping and waiting for pedestrians.
 
-# Implementation:
+## Implementation:
 
 - We implemented a PID controller to control the acceleration and speed of the vehicle.
 - We trained a traffic sign detector based on the Lenet model to detect turn signs in real-time. Whenever a turn sign is detected, we set the target heading and publish the appropriate steer command.
