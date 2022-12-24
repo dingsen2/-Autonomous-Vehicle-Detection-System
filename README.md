@@ -10,4 +10,4 @@ As part of the CS588 course, our team of four (Jiaxi Li, Dingsen Shi, Yijun Lin,
 - We used the OpenCV library's HOGDescriptor_getDefaultPeopleDetector to detect pedestrians. Whenever a pedestrian is detected, we publish a brake command and pause the acceleration PID controller until the pedestrian is no longer detected.
 
 ## [Demo]()
-[!(assets/video-start.jpg)]()
+[![](assets/video-start.jpg)]()
